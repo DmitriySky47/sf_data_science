@@ -31,3 +31,5 @@
 ### Результаты
 
 ### Выводы
+
+:arrow_up[к оглавлению](https://github.com/DmitriySky47/sf_data_science/tree/main/project_0/README.md#Оглавление)
