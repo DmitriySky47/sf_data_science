@@ -12,21 +12,21 @@ def random_predict(number:int=1) -> int:
     
     count = 0
     
-    """Диапазон рандом делаем на переменных, чтобы ссужать его
+    """Интервал поиска делаем на переменных, чтобы ссужать его
     в зависимости от условий сравнения больше-меньше"""
-    first_val = 1 #первая переменная диапазона рандом
-    second_val = 101 #вторая переменная для диапазона рандом
+    first_val = 1 #первая переменная интервала поиска
+    second_val = 101 #вторая переменная интервала поиска
             
     while True:
         count += 1
         predict_number = np.random.randint(first_val, second_val)
         
         if predict_number < number:
-            first_val = predict_number #ссужаем левую границу диапазона рандом
+            first_val = predict_number #сдвигаем левую границу интервала поиска
             
             
         elif predict_number > number:
-            second_val = predict_number #ссужаем правую границу диапазона рандом
+            second_val = predict_number #сдвигаем правую границу интервала поиска
             
         else:
             break
