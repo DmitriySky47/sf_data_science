@@ -1,4 +1,4 @@
-from itertools import count
+#from itertools import count
 import numpy as np
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
@@ -14,17 +14,21 @@ def random_predict(number:int=1) -> int:
     
     """Диапазон рандом делаем на переменных, чтобы ссужать его
     в зависимости от условий сравнения больше-меньше"""
-    first_v = 1 #первая переменная диапазона рандом
-    last_v = 101 #вторая переменная для диапазона рандом
-    
-    
-    
-    
-    
+    first_val = 1 #первая переменная диапазона рандом
+    second_val = 101 #вторая переменная для диапазона рандом
+            
     while True:
         count += 1
-        predict_number = np.random.randint(first_v, last_v) #Предполагаемое число
-        if number == predict_number:
+        predict_number = np.random.randint(first_val, second_val)
+        
+        if predict_number < number:
+            first_val = predict_number #ссужаем левую границу диапазона рандом
+            
+            
+        elif predict_number > number:
+            second_val = predict_number #ссужаем правую границу диапазона рандом
+            
+        else:
             break
     
     return count
@@ -33,7 +37,7 @@ print(f'Количество попыток {random_predict()}')
 
 
 def score_game(random_predict) -> int:
-    """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
+    """За какое количество попыток в среднем из 10000 подходов угадывает наш алгоритм
 
     Args:
         random_predict([type]): функция угадывания
@@ -60,5 +64,5 @@ def score_game(random_predict) -> int:
         return score
     
     if __name__ == '__main__':
-        score_game(random_predict)
+    score_game(random_predict)
     
