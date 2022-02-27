@@ -7,4 +7,8 @@ From the [SkillFactory Data Science course] (https://github.com/DmitriySky47/sf_
 * [Project 1. _____](_____)
 * [Project 2. _____](_____)
 
+## Pandas
+
+
+
 ## Ссылки на резюме
