@@ -1,4 +1,4 @@
-# Проект 1. (В работе)
+# Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление
 [1. Описание проекта](https://github.com/DmitriySky47/sf_data_science/tree/main/project_1/README.md#Описание-проекта)<br>
