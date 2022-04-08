@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+project_1/Project_1_Анализ_вакансий_HH.ipynb
+project_1/data/dst-3.0_16_1_hh_database.csv
