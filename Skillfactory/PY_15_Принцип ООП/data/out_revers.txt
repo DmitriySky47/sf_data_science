@@ -1,0 +1,4 @@
+How do You do?
+My name is Den
+This is new string
+Hello world
