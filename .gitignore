@@ -132,3 +132,5 @@ project_1/data/dst-3.0_16_1_hh_database.csv
 MFC_SPB
 EDA_6 Kaggle Hotels/data/hotels.csv
 Skillfactory/EDA_6 Kaggle Hotels/data/hotels.csv
+Skillfactory/EDA_6 Kaggle Hotels/data/hotels_train.csv
+Skillfactory/EDA_6 Kaggle Hotels/data/hotels_test.csv
