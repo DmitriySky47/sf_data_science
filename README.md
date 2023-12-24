@@ -7,6 +7,10 @@ From the [SkillFactory Data Science course] (https://github.com/DmitriySky47/sf_
 * [Project 1. Анализ вакансий на HH](https://github.com/DmitriySky47/sf_data_science/tree/main/project_1)
 * [Project 2. _____](_____)
 
+## Home works
+
+* [HW 02. Исследование данных HR-агентства](https://github.com/DmitriySky47/sf_data_science/blob/main/Skillfactory/EDA_4_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B/EDA-4_Home_work.ipynb)
+
 ## SkillFactory
 
 * [Python 10. Введение в Pandas](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/PY_10_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Pandas)
