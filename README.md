@@ -9,7 +9,7 @@ From the [SkillFactory Data Science course] (https://github.com/DmitriySky47/sf_
 
 ## Home works
 
-* [HW 02. Исследование данных HR-агентства](https://github.com/DmitriySky47/sf_data_science/blob/main/Skillfactory/EDA_4_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B/EDA-4_Home_work.ipynb)
+* [HW 02. Исследование данных HR-агентства](https://github.com/DmitriySky47/sf_data_science/blob/main/Skillfactory/EDA_4_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B/HW-02%20%D0%A0%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%BD%D0%B3.ipynb)
 
 ## SkillFactory
 
