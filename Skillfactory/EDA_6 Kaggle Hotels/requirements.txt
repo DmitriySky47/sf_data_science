@@ -47,6 +47,8 @@ Flask-Compress==1.12
 flask-ngrok==0.0.25
 fonttools==4.31.2
 future==0.18.2
+geographiclib==2.0
+geopy==2.4.1
 graphviz==0.20.1
 greenlet==2.0.1
 hijri-converter==2.2.4
