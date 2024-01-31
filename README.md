@@ -5,11 +5,7 @@ From the [SkillFactory Data Science course] (https://github.com/DmitriySky47/sf_
 
 * [Project 0. Игра: угадай число](https://github.com/DmitriySky47/sf_data_science/tree/main/project_0)
 * [Project 1. Анализ вакансий на HH](https://github.com/DmitriySky47/sf_data_science/tree/main/project_1)
-<<<<<<< HEAD
-* [Project 3. Построение модели, которая предсказывает рейтинг отеля](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_6%20Kaggle%20Hotels)
-=======
 * [Project 3. Построение модели, которая предсказывает рейтинг отеля](https://github.com/DmitriySky47/sf_data_science/tree/main/project_3)
->>>>>>> 5ed889d25968bdb79680a418d64e7eb78d201440
 
 ## Home works
 
