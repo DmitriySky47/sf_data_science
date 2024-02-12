@@ -26,5 +26,8 @@ From the [SkillFactory Data Science course] (https://github.com/DmitriySky47/sf_
 * [EDA_2. Математическая статистика](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_2_%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
 * [EDA_3. Проектирование признаков](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_3_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2)
 * [EDA_4. Статистические тесты](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_4_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B)
+* [EDA_5. A/B тестирование](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_5_AB_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+* [EDA_6. Знакомство Kaggle, LightAutoML](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_6%20Kaggle%20LightAutoML)
+* [EDA_6. Соревнование Kaggle_Hotels](https://github.com/DmitriySky47/sf_data_science/tree/main/Skillfactory/EDA_6%20Kaggle%20Hotels)
 
 ## Ссылки на резюме
