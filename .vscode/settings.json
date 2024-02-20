@@ -1,4 +1,5 @@
 {
     "audioCues.lineHasError": "off",
-    "audioCues.taskCompleted": "off"
+    "audioCues.taskCompleted": "off",
+    "audioCues.volume": 1
 }
