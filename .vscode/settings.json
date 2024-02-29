@@ -1,5 +1,9 @@
 {
-    "audioCues.lineHasError": "off",
-    "audioCues.taskCompleted": "off",
-    "audioCues.volume": 1
+    "accessibility.signals.sounds.volume": 1,
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off"
+    }
 }
