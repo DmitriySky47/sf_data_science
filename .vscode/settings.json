@@ -1,9 +1,11 @@
 {
-    "accessibility.signals.sounds.volume": 1,
     "accessibility.signals.lineHasError": {
         "sound": "off"
     },
     "accessibility.signals.taskCompleted": {
         "sound": "off"
+    },
+    "accessibility.signalOptions": {
+        "volume": 1
     }
 }
