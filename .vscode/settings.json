@@ -5,7 +5,5 @@
     "accessibility.signals.taskCompleted": {
         "sound": "off"
     },
-    "accessibility.signalOptions": {
-        "volume": 1
-    }
+    "accessibility.signalOptions.volume": 1
 }
